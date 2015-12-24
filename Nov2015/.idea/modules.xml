@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../HelloPyGame/.idea/HelloPyGame.iml" filepath="$PROJECT_DIR$/../HelloPyGame/.idea/HelloPyGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HelloPyGame02/.idea/HelloPyGame02.iml" filepath="$PROJECT_DIR$/../HelloPyGame02/.idea/HelloPyGame02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HelloPyGame03/.idea/HelloPyGame03.iml" filepath="$PROJECT_DIR$/../HelloPyGame03/.idea/HelloPyGame03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ImageData/.idea/ImageData.iml" filepath="$PROJECT_DIR$/../ImageData/.idea/ImageData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Nov2015.iml" filepath="$PROJECT_DIR$/.idea/Nov2015.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Nov2015PythonPractice/.idea/Nov2015PythonPractice.iml" filepath="$PROJECT_DIR$/../Nov2015PythonPractice/.idea/Nov2015PythonPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PygamePlatforming1/.idea/PygamePlatforming1.iml" filepath="$PROJECT_DIR$/../PygamePlatforming1/.idea/PygamePlatforming1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PygamePlatforming2/.idea/PygamePlatforming2.iml" filepath="$PROJECT_DIR$/../PygamePlatforming2/.idea/PygamePlatforming2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PygamePlatforming3/.idea/PygamePlatforming3.iml" filepath="$PROJECT_DIR$/../PygamePlatforming3/.idea/PygamePlatforming3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PygamePlatforming4/.idea/PygamePlatforming4.iml" filepath="$PROJECT_DIR$/../PygamePlatforming4/.idea/PygamePlatforming4.iml" />
+    </modules>
+  </component>
+</project>
